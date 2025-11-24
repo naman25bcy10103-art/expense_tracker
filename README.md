@@ -1,4 +1,4 @@
-📘 Expense Tracker (Beginner Python Project)
+📘 Expense Tracker 
 
 A simple command-line Python project that helps you record and manage your daily expenses.
 Perfect for beginners learning Python basics such as input/output, lists, loops, functions, and file handling.
